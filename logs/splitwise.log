@@ -1,0 +1,23 @@
+2024-10-17T09:30:00.241+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] c.s.s.SplitWiseApplication               : Starting SplitWiseApplication using Java 17.0.6 with PID 10628 (C:\Users\satya\IdeaProjects\SplitWiseApplication\target\classes started by satya in C:\Users\satya\IdeaProjects\SplitWiseApplication)
+2024-10-17T09:30:00.247+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] c.s.s.SplitWiseApplication               : No active profile set, falling back to 1 default profile: "default"
+2024-10-17T09:30:00.357+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-17T09:30:01.334+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-17T09:30:01.337+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-10-17T09:30:01.372+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 28 ms. Found 0 JDBC repository interfaces.
+2024-10-17T09:30:01.411+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-10-17T09:30:01.413+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-10-17T09:30:01.426+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2024-10-17T09:30:02.065+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-10-17T09:30:02.174+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2024-10-17T09:30:02.228+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-10-17T09:30:02.803+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-10-17T09:30:02.866+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-17T09:30:03.657+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28596b62
+2024-10-17T09:30:03.663+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-17T09:30:05.548+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-10-17T09:30:05.971+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-10-17T09:30:06.541+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-10-17T09:30:06.605+05:30  INFO 10628 --- [SplitWiseApplication] [restartedMain] c.s.s.SplitWiseApplication               : Started SplitWiseApplication in 7.3 seconds (process running for 8.949)
+2024-10-17T09:30:25.104+05:30  INFO 10628 --- [SplitWiseApplication] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-10-17T09:30:25.110+05:30  INFO 10628 --- [SplitWiseApplication] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-17T09:30:25.123+05:30  INFO 10628 --- [SplitWiseApplication] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
